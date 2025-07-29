@@ -17,15 +17,18 @@ Learn more at [GoGoCode Document](https://github.com/thx/gogocode/blob/main/docs
 
 ## Intro
 
-Let's show you how to select and modify code with our API
+Let's show you how to and modify code with our API
 
 ### In
 
 ```javascript
 const a = 1;
 const b = 2;
-```
 
+
+
+
+'''
 ### Transform With GoGoCode
 
 ```javascript
