@@ -25,9 +25,6 @@ Let's show you how to and modify code with our API
 const a = 1;
 const b = 2;
 
-""
-hahaha
-"""
 
 
 '''
